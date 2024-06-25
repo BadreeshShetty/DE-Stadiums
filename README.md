@@ -7,6 +7,18 @@ This project involves setting up a data pipeline for scraping, transforming, and
 The main objective of this project is to gather and process stadium data, leveraging various tools and technologies to manage and process the information. This project showcases my expertise in data engineering and my ability to handle complex data workflows.
 
 ---
+## Initial Link to Scrape
+
+Link: https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity
+
+<img width="1470" alt="DAE-ETL-scrape" src="https://github.com/BadreeshShetty/DE-Stadiums/blob/main/Stadiums-List-Scrape.png">
+
+
+## End Result Table in Snowflake
+
+<img width="1470" alt="DAE-ETL-table" src="https://github.com/BadreeshShetty/DE-Stadiums/blob/main/Stadium-Snowflake-Table.png">
+
+---
 
 ## 📹 Video Demonstration of the Project
 
