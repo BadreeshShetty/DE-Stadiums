@@ -154,6 +154,10 @@ Video Link: https://youtu.be/lFwdFiiomzU
 8. **Run the DAGs**:
     Trigger the DAGs from the Airflow web interface.
 
+## Project Documentation
+
+Detailed documentation of the project can be found [Stadiums Data Analytics Engineering Project (Docker, Airflow, AWS, Web Scraping, Python, SQL, Snowflake, Tableau)](https://grape-liquid-f37.notion.site/Stadiums-Data-Analytics-Engineering-Project-Docker-Airflow-AWS-Web-Scraping-Python-SQL-Snowfl-fefe58f90cd4470cbc97113873df80c8?pvs=74)
+
 ---
 
 ## Contact
