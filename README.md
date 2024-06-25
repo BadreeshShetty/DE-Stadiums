@@ -22,7 +22,7 @@ Link: https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity
 
 ## 📹 Video Demonstration of the Project
 
-[<img width="1470" alt="DAE-ETL" src="https://github.com/BadreeshShetty/DE-Stadiums/blob/main/DAE-Stadiums.png">](https://youtu.be/lFwdFiiomzU)
+[<img width="1470" alt="DAE-ETL" src="https://github.com/BadreeshShetty/DE-Stadiums/blob/main/DAE-Stadiums.png">](https://www.youtube.com/watch?v=woFmyflvnng))
 
 Video Link: https://youtu.be/lFwdFiiomzU
 
