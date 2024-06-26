@@ -168,7 +168,7 @@ Video Link: https://youtu.be/lFwdFiiomzU
 
 ## Project Documentation
 
-Detailed documentation of the project can be found [Stadiums Data Analytics Engineering Project (Docker, Airflow, AWS, Web Scraping, Python, SQL, Snowflake, Tableau)](https://grape-liquid-f37.notion.site/Stadiums-Data-Analytics-Engineering-Project-Docker-Airflow-AWS-Web-Scraping-Python-SQL-Snowfl-fefe58f90cd4470cbc97113873df80c8?pvs=74)
+Detailed documentation of the project can be found [Stadiums Data Analytics Engineering Project (Docker, Airflow, AWS, Web Scraping, Python, SQL, Snowflake, Tableau)](https://www.notion.so/Stadium-Data-Analytics-Engineering-Project-Docker-Airflow-AWS-Web-Scraping-Python-SQL-Snowfla-fefe58f90cd4470cbc97113873df80c8)
 
 ---
 
